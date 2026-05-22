@@ -2,7 +2,7 @@ workflows:
   testFlight:
     name: "Ios Release"
     integrations:
-      app_store_connect:  NEZHA FAHSI
+      app_store_connect: NEZHA FAHSI
     environment:
       flutter: 3.41.0
       ios_signing:
