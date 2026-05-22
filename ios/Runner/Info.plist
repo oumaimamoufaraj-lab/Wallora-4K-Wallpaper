@@ -16,6 +16,8 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>Wallora 4K Wallpaper</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Wallora 4K Wallpaper needs access to your photo library so you can save wallpapers you select with Like or Download.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Wallora 4K Wallpaper saves images you choose to your photo library when you tap Like or Download.</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
